@@ -1,2 +1,2 @@
-# Angular2-BindDropDown
-In this repository i'll explain how to bind dropdown
+# How to Work with multiple Module in angular4
+In this repository i'll explain  How to Work with multiple Module in angular4,
